@@ -20,7 +20,7 @@ Installation
 3.  Create a `.env` file at the root of the project with the following variables:
     -   `YOUR_SERVER_ADDRESS`: The IP address or domain name of your Minecraft server.
     -   `YOUR_DISCORD_WEBHOOK_URL`: The URL of your Discord webhook.
-4.  Run the script using `python server_status_checker.py`.
+4.  Run the script using `python mcstatus_discord_notifier.py`.
 
 Usage
 -----
